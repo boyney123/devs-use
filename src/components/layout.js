@@ -69,7 +69,7 @@ const Layout = ({ children }) => (
           {children}
         </div>
         <footer className="nav-footer">
-          <span>Build with ❤️ </span>
+          <span>Built with ❤️ </span>
         </footer>
       </>
     )}
