@@ -11,7 +11,7 @@ export default function Template({ data }) {
   const { frontmatter } = post
   return (
     <Layout className="blog-post-container">
-      <Helmet title={`Devs-Use - ${frontmatter.title}`} />
+      <Helmet title={`Devs-Use - ${frontmatter.author}`} />
       <div className="blog-post">
         <h1>{frontmatter.author}</h1>
         <p>{frontmatter.bio}</p>
