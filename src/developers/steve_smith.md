@@ -104,7 +104,7 @@ I record online courses for Pluralsight and DevIQ and occasional screencasts on 
 
 I’m writing this on a Macbook Pro Retina 15″ circa 2013 (I purchased it in June 2014). It’s running 2.3 GHz Intel Core i7 and has 16GB 1600 MHz DDR3 RAM and an Intel Iris Pro 1536 MB graphics card. It’s still running well. I run Parallels to run Windows on it and I switch back and forth between MacOS and Windows when developing. It’s accumulated a few stickers over the years – here’s a pic from September 2018:
 
-![alt text](http://ardalis.com/wp-content/uploads/2018/10/Laptop-2018-09-26.jpg 'Laptop')
+![alt text](https://ardalis.com/wp-content/uploads/2018/10/Laptop-2018-09-26.jpg 'Laptop')
 
 #Avatar
 
