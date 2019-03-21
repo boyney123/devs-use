@@ -11,9 +11,11 @@ bio: 'Teaching and learning at https://www.comparethemarket.com , Speaker, Lacto
 Here’s a quick list of the tools I use and generally recommend for web development.
 
 - SublimeText/Notepad - I love a simplistic IDE that doesn't have lots of things to get in the way
-- Postman - Rest Client
-- Putty - SSH Client
-- FileZilla - SFTP Client
+- [Postman](https://www.getpostman.com) - Rest Client
+- [Putty](https://www.putty.org) - SSH Client
+- [FileZilla](https://filezilla-project.org) - SFTP Client
+- [Regex101](https://regex101.com/) - Regex Playground
+- [Rendera](http://rendera.herokuapp.com/) - Simple HTML rendering online
 
 # Productivity Tools
 
